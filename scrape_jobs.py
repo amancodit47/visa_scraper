@@ -2,7 +2,7 @@
 # import pandas as pd
 # import datetime
 
-# SERPAPI_API_KEY = "27e19eb8727a780fee46d52f054a94746aca86173cb17dab78ee0675b4ee2cac"
+# SERPAPI_API_KEY = "YOUR API KEY"
 
 # def extract_job_type(highlights):
 #     if isinstance(highlights, list):
