@@ -1,0 +1,21 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment file containing sensitive API keys
+.env
+
+# SQLite database file (do not store it in GitHub)
+jobs.db
+
+# Output CSV file (can be large and recreated anytime)
+output.csv
+
+# Virtual environment folder (if you create one locally)
+venv/
+
+# VS Code settings (optional but common)
+.vscode/
+
+# macOS-specific file
+.DS_Store
