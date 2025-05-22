@@ -21,7 +21,7 @@ This project scrapes "Data Engineer" job listings from Google Jobs, filters by H
 2. Run manually:
 
 
-# Daily List of Visa-Sponsored Data Engineering Job Opportunities
+# Daily List of Visa-Sponsored Data Engineering Job Opportunities Updated Hourly
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
